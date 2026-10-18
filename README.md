@@ -69,21 +69,6 @@ class Currently extends Developer {
 </p>
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/EduardoAndradeSLima/output/snake-dark.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/EduardoAndradeSLima/output/snake.svg"
-    />
-  </picture>
-</p>
-
 ## 🌐 Connect with Me
 
 <p>
