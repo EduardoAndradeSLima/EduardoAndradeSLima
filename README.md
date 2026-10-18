@@ -30,7 +30,7 @@ class Currently extends Developer {
     'Artificial Intelligence'
   ];
 }
-
+```
 
 ## 🚀 Technologies & Tools
 
