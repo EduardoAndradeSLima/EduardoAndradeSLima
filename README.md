@@ -1,16 +1,136 @@
-## Hi there 👋
+# 👋 Hey, I'm Eduardo Andrade
 
-<!--
-**EduardoAndradeSLima/EduardoAndradeSLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student • Software Developer • Builder**
 
-Here are some ideas to get you started:
+I'm a 16-year-old developer from São Paulo, Brazil, interested in building software, exploring new technologies, and understanding how systems work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical solutions, from SaaS platforms and web applications to developer tools.
+
+[🌐 Portfolio](https://portfoledu.vercel.app/)
+
+```javascript
+import Developer from 'Edu';
+
+class AboutMe extends Developer {
+  name = 'Eduardo Andrade da Silva Lima';
+  role = 'Student & Software Developer';
+  age = 16;
+  english = 'Intermediate';
+  spanish = 'Advanced';
+  location = 'São Paulo, Brazil';
+  website = 'https://portfoledu.vercel.app/';
+}
+
+class Currently extends Developer {
+  building = ['SaaS', 'Web Platforms', 'Developer Tools'];
+  exploring = [
+    'Cybersecurity',
+    'Cloud Computing',
+    'System Design',
+    'Artificial Intelligence'
+  ];
+}
+
+class Skills extends Developer {
+  languages = [
+    'JavaScript',
+    'TypeScript',
+    'Python',
+    'Java',
+    'C++',
+    'XanaScript'
+  ];
+
+  frontend = [
+    'HTML5',
+    'CSS3',
+    'React',
+    'Next.js',
+
+  ];
+
+  backend = [
+    'Node.js',
+    'Express',
+    'NestJS',
+  ];
+
+  databases = [
+    'PostgreSQL',
+    'MySQL',
+    'MongoDB',
+    'Redis'
+  ];
+
+  tools = [
+    'Docker',
+    'Git',
+    'AWS',
+  ];
+}
+```
+
+## 🚀 Technologies & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php" alt="Programming languages" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" alt="Backend technologies" />
+</p>
+
+### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="Databases and ORM" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,firebase" alt="DevOps and development tools" />
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/eduardo-lima-416266394/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:limaeduardoans789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/eduardoansl/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://portfoledu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
