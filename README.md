@@ -68,10 +68,20 @@ class Currently extends Developer {
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
+
 ## 🐍 Contribution Snake
 
-<p>
-  <img src="https://raw.githubusercontent.com/EduardoAndradeSLima/EduardoAndradeSLima/output/snake.svg" alt="GitHub contribution snake animation" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/EduardoAndradeSLima/EduardoAndradeSLima/output/snake-dark.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/EduardoAndradeSLima/EduardoAndradeSLima/output/snake.svg"
+    />
+  </picture>
 </p>
 
 ## 🌐 Connect with Me
