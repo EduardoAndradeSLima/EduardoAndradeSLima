@@ -75,11 +75,11 @@ class Currently extends Developer {
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/EduardoAndradeSLima/EduardoAndradeSLima/output/snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/EduardoAndradeSLima/output/snake-dark.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/EduardoAndradeSLima/EduardoAndradeSLima/output/snake.svg"
+      src="https://raw.githubusercontent.com/EduardoAndradeSLima/output/snake.svg"
     />
   </picture>
 </p>
