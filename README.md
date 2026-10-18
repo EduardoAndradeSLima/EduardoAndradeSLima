@@ -6,7 +6,6 @@ I'm a 16-year-old developer from São Paulo, Brazil, interested in building soft
 
 I enjoy turning ideas into practical solutions, from SaaS platforms and web applications to developer tools.
 
-[🌐 Portfolio](https://portfoledu.vercel.app/)
 
 ```javascript
 import Developer from 'Edu';
