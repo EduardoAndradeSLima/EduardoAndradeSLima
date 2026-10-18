@@ -59,7 +59,6 @@ class Skills extends Developer {
     'PostgreSQL',
     'MySQL',
     'MongoDB',
-    'Redis'
   ];
 
   tools = [
@@ -74,27 +73,27 @@ class Skills extends Developer {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Programming languages" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend technologies" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend technologies" />
 </p>
 
 ### Databases & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="Databases and ORM" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases and ORM" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,firebase" alt="DevOps and development tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws" alt="DevOps and development tools" />
 </p>
 
 
@@ -109,7 +108,7 @@ class Skills extends Developer {
 ## 🐍 Contribution Snake
 
 <p>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/EduardoAndradeSLima/EduardoAndradeSLima/output/snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ## 🌐 Connect with Me
