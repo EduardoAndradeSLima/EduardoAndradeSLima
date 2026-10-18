@@ -31,43 +31,6 @@ class Currently extends Developer {
   ];
 }
 
-class Skills extends Developer {
-  languages = [
-    'JavaScript',
-    'TypeScript',
-    'Python',
-    'Java',
-    'C++',
-    'XanaScript'
-  ];
-
-  frontend = [
-    'HTML5',
-    'CSS3',
-    'React',
-    'Next.js',
-
-  ];
-
-  backend = [
-    'Node.js',
-    'Express',
-    'NestJS',
-  ];
-
-  databases = [
-    'PostgreSQL',
-    'MySQL',
-    'MongoDB',
-  ];
-
-  tools = [
-    'Docker',
-    'Git',
-    'AWS',
-  ];
-}
-```
 
 ## 🚀 Technologies & Tools
 
@@ -101,8 +64,8 @@ class Skills extends Developer {
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ## 🐍 Contribution Snake
