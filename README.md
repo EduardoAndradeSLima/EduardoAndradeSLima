@@ -35,7 +35,7 @@ class Currently extends Developer {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,xanascript" alt="Programming languages" />
 </p>
 
 ### Frontend
