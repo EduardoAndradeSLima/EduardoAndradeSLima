@@ -2,7 +2,7 @@
 
 **Student • Software Developer • Builder**
 
-I'm a 16-year-old developer from São Paulo, Brazil, interested in building software, exploring new technologies, and understanding how systems work under the hood.
+I'm a 16-year-old developer from São Paulo, Brazil, interested in building software, exploring new technologies, and understanding how systems work.
 
 I enjoy turning ideas into practical solutions, from SaaS platforms and web applications to developer tools.
 
@@ -86,7 +86,3 @@ class Currently extends Developer {
 </p>
 
 ---
-
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
