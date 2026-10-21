@@ -1,18 +1,8 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Eduardo Andrade — Student, Software Developer and Builder" />
 
-  <br />
+  <img src="assets/banner.svg" width="100%" alt="Eduardo Andrade — Student · Developer · Builder" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2900&pause=1100&color=9DA8B8&center=true&vCenter=true&width=820&lines=Building+real-world+software;Learning+how+systems+work+under+the+hood;Web+Development+%E2%80%A2+Backend+%E2%80%A2+Artificial+Intelligence;Turning+ideas+into+products" alt="Animated introduction" />
-
-  <br /><br />
-
-  <a href="https://portfoledu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/eduardo-lima-416266394/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-  <a href="mailto:limaeduardoans789@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
 </div>
-
-<br />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -25,19 +15,27 @@ I enjoy building products that people can actually use — from **web applicatio
 Outside the classroom, I work on personal and real-world projects, participate in programming competitions, and explore new ideas involving **artificial intelligence, cloud computing, and cybersecurity**.
 
 ```javascript
-const eduardo = {
-  role: 'Student & Software Developer',
-  location: 'São Paulo, Brazil',
-  education: 'Systems Development @ ETEC Guarulhos',
-  building: ['SaaS', 'Web Applications', 'Developer Tools'],
-  exploring: ['Backend', 'System Design', 'AI', 'Cybersecurity'],
-  spokenLanguages: {
-    portuguese: 'Native',
-    english: 'Intermediate',
-    spanish: 'Advanced'
-  },
-  mindset: 'Build. Understand. Improve.'
-};
+import Developer from 'Edu';
+
+class AboutMe extends Developer {
+  name = 'Eduardo Andrade da Silva Lima';
+  role = 'Student & Software Developer';
+  age = 16;
+  english = 'Intermediate';
+  spanish = 'Advanced';
+  location = 'São Paulo, Brazil';
+  website = 'https://portfoledu.vercel.app/';
+}
+
+class Currently extends Developer {
+  building = ['SaaS', 'Web Platforms', 'Developer Tools'];
+  exploring = [
+    'Cybersecurity',
+    'Cloud Computing',
+    'System Design',
+    'Artificial Intelligence'
+  ];
+}
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -70,37 +68,52 @@ const eduardo = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Featured projects
+## AI & orchestration
+
+<div align="center">
+
+![AI agents](https://img.shields.io/badge/AI%20agents-161b22?style=for-the-badge&logo=openai&logoColor=8b949e)
+![Orchestration](https://img.shields.io/badge/Orchestration-161b22?style=for-the-badge&logo=probot&logoColor=8b949e)
+![MCP](https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=8b949e)
+![Automation](https://img.shields.io/badge/Automation-161b22?style=for-the-badge&logo=task&logoColor=8b949e)
+
+</div>
+
+I build and orchestrate AI agents. I'm exploring shared memory, autonomous workflows, and integrations with tools such as GitHub, Figma, and email. On more complex projects, I study how multiple agents can coordinate different parts of the same task.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Projects on GitHub
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛠️ Build Your Own Git</h3>
-      <p>Recreating core Git concepts using <b>JavaScript and Node.js</b> to understand version control, hashing, objects and the CLI.</p>
-      <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node">View repository →</a></p>
+      <p>Recreating Git in <b>JavaScript and Node.js</b> to learn about file systems, SHA-1, Git objects, and version control internals. <i>In progress.</i></p>
+      <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View Git project" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>💈 Barbershop Management System</h3>
-      <p>A web-based management application built for a real barbershop, with a focus on usable workflows and day-to-day operations.</p>
-      <p><a href="https://novo-imperio-app.expo.app/">Live application →</a></p>
+      <h3>🏙️ FacilitaGRU — Hackathon GRU</h3>
+      <p>Web platform supporting screening and management of social-assistance placements in Guarulhos. Built with <b>React, Node.js, Express, and Supabase</b>.</p>
+      <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View FacilitaGRU repository" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏙️ Hackathon GRU 2026</h3>
-      <p>A hackathon web project developed with <b>React, Node.js and Express</b>, focused on solving practical problems.</p>
-      <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26">View repository →</a></p>
+      <h3>📊 Radar Logístico</h3>
+      <p>A <b>Python and Streamlit</b> dashboard for monitoring delivery delays, comparing carriers, filtering metrics, and exploring logistics data.</p>
+      <p><a href="https://github.com/EduardoAndradeSLima/dashboard-logistico"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View logistics dashboard repository" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Leadfy</h3>
-      <p>A responsive landing page designed with an emphasis on clarity, visual presentation and conversion.</p>
-      <p><a href="https://leadfy-landing-nine.vercel.app/">Live website →</a></p>
+      <h3>📅 Booking System</h3>
+      <p>A scheduling application project using <b>Angular, Node.js, and MongoDB</b>, with separate frontend and backend.</p>
+      <p><a href="https://github.com/EduardoAndradeSLima/booking-system"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View booking system repository" /></a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://portfoledu.vercel.app/">Explore more projects and case studies on my portfolio →</a>
+  <a href="https://github.com/EduardoAndradeSLima?tab=repositories">View all my GitHub repositories →</a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -121,16 +134,12 @@ I'm interested in combining **software engineering and artificial intelligence**
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## GitHub statistics
+## 📊 GitHub Stats
 
-<div align="center">
-  <img height="167" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9DA8B8&icon_color=A78BFA" alt="Eduardo's GitHub statistics" />
-  <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9DA8B8" alt="Most used languages on GitHub" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=EduardoAndradeSLima&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=A78BFA&currStreakLabel=FFFFFF&sideLabels=9DA8B8&dates=9DA8B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub activity streak" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
 
 <!--
 🐍 CONTRIBUTION SNAKE
