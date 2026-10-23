@@ -8,11 +8,6 @@
 
 ## About me
 
-I'm **Eduardo Andrade**, a **16-year-old software developer** and **Systems Development student at ETEC Guarulhos**, based in São Paulo, Brazil.
-
-I enjoy building products that people can actually use — from **web applications and SaaS platforms** to **developer tools**. I'm especially interested in what happens behind the interface: architecture, backend systems, performance, and how software works under the hood.
-
-Outside the classroom, I work on personal and real-world projects, participate in programming competitions, and explore new ideas involving **artificial intelligence, cloud computing, and cybersecurity**.
 
 ```javascript
 import Developer from 'Edu';
