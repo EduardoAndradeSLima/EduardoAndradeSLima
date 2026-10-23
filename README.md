@@ -88,24 +88,24 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ Build Your Own Git</h3>
+      <h3>Build Your Own Git</h3>
       <p>Recreating Git in <b>JavaScript and Node.js</b> to learn about file systems, SHA-1, Git objects, and version control internals. <i>In progress.</i></p>
       <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View Git project" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏙️ FacilitaGRU — Hackathon GRU</h3>
+      <h3>FacilitaGRU — Hackathon GRU</h3>
       <p>Web platform supporting screening and management of social-assistance placements in Guarulhos. Built with <b>React, Node.js, Express, and Supabase</b>.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View FacilitaGRU repository" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Radar Logístico</h3>
+      <h3>Radar Logístico</h3>
       <p>A <b>Python and Streamlit</b> dashboard for monitoring delivery delays, comparing carriers, filtering metrics, and exploring logistics data.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/dashboard-logistico"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View logistics dashboard repository" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📅 Booking System</h3>
+      <h3>Booking System</h3>
       <p>A scheduling application project using <b>Angular, Node.js, and MongoDB</b>, with separate frontend and backend.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/booking-system"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View booking system repository" /></a></p>
     </td>
@@ -134,7 +134,7 @@ I'm interested in combining **software engineering and artificial intelligence**
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
