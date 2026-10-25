@@ -124,7 +124,6 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 <img src="assets/divider.svg" width="100%" alt="" />
 
 
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## GitHub Stats
 
