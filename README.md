@@ -123,9 +123,6 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Currently exploring
-
-I'm interested in combining **software engineering and artificial intelligence** to create products that are useful, scalable, and thoughtfully designed. Lately, I've been studying how to build systems from scratch, improve backend architecture, and experiment with AI-powered applications.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
