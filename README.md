@@ -67,7 +67,7 @@ class Currently extends Developer {
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI%20agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents" />
-<img src="https://img.shields.io/badge/Orchestration-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="Orchestration" />
+<img src="https://img.shields.io/badge/Orchestration-8B5CF6?style=for-the-badge" alt="Orchestration" />
 <img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge&logo=task&logoColor=white" alt="Automation" />
 
