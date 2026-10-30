@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <img src="assets/banner.svg" width="100%" alt="Eduardo Andrade — Student · Developer · Builder" />
 
@@ -7,7 +7,6 @@
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## About me
-
 
 ```javascript
 import Developer from 'Edu';
@@ -67,10 +66,10 @@ class Currently extends Developer {
 
 <div align="center">
 
-![AI agents](https://img.shields.io/badge/AI%20agents-161b22?style=for-the-badge&logo=openai&logoColor=8b949e)
-![Orchestration](https://img.shields.io/badge/Orchestration-161b22?style=for-the-badge&logo=probot&logoColor=8b949e)
-![MCP](https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=8b949e)
-![Automation](https://img.shields.io/badge/Automation-161b22?style=for-the-badge&logo=task&logoColor=8b949e)
+<img src="https://img.shields.io/badge/AI%20agents-161b22?style=for-the-badge&logo=openai&logoColor=8b949e" alt="AI agents" />
+<img src="https://img.shields.io/badge/Orchestration-161b22?style=for-the-badge&logo=probot&logoColor=8b949e" alt="Orchestration" />
+<img src="https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=8b949e" alt="MCP" />
+<img src="https://img.shields.io/badge/Automation-161b22?style=for-the-badge&logo=task&logoColor=8b949e" alt="Automation" />
 
 </div>
 
@@ -123,13 +122,11 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <!--
