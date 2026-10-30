@@ -66,10 +66,10 @@ class Currently extends Developer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20agents-161b22?style=for-the-badge&logo=openai&logoColor=8b949e" alt="AI agents" />
-<img src="https://img.shields.io/badge/Orchestration-161b22?style=for-the-badge&logo=probot&logoColor=8b949e" alt="Orchestration" />
-<img src="https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=8b949e" alt="MCP" />
-<img src="https://img.shields.io/badge/Automation-161b22?style=for-the-badge&logo=task&logoColor=8b949e" alt="Automation" />
+<img src="https://img.shields.io/badge/AI%20agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents" />
+<img src="https://img.shields.io/badge/Orchestration-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="Orchestration" />
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge&logo=task&logoColor=white" alt="Automation" />
 
 </div>
 
@@ -84,24 +84,24 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
     <td width="50%" valign="top">
       <h3>Build Your Own Git</h3>
       <p>Recreating Git in <b>JavaScript and Node.js</b> to learn about file systems, SHA-1, Git objects, and version control internals. <i>In progress.</i></p>
-      <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View Git project" /></a></p>
+      <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node"><img src="https://img.shields.io/badge/view%20repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Git project" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>FacilitaGRU — Hackathon GRU</h3>
       <p>Web platform supporting screening and management of social-assistance placements in Guarulhos. Built with <b>React, Node.js, Express, and Supabase</b>.</p>
-      <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View FacilitaGRU repository" /></a></p>
+      <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26"><img src="https://img.shields.io/badge/view%20repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View FacilitaGRU repository" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Radar Logístico</h3>
       <p>A <b>Python and Streamlit</b> dashboard for monitoring delivery delays, comparing carriers, filtering metrics, and exploring logistics data.</p>
-      <p><a href="https://github.com/EduardoAndradeSLima/dashboard-logistico"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View logistics dashboard repository" /></a></p>
+      <p><a href="https://github.com/EduardoAndradeSLima/dashboard-logistico"><img src="https://img.shields.io/badge/view%20repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View logistics dashboard repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Booking System</h3>
       <p>A scheduling application project using <b>Angular, Node.js, and MongoDB</b>, with separate frontend and backend.</p>
-      <p><a href="https://github.com/EduardoAndradeSLima/booking-system"><img src="https://img.shields.io/badge/view%20repository-161b22?style=for-the-badge&logo=github&logoColor=8b949e" alt="View booking system repository" /></a></p>
+      <p><a href="https://github.com/EduardoAndradeSLima/booking-system"><img src="https://img.shields.io/badge/view%20repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View booking system repository" /></a></p>
     </td>
   </tr>
 </table>
@@ -125,8 +125,8 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduardoAndradeSLima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <!--
@@ -150,12 +150,14 @@ its matching closing comment to display the animation.
 ## Where to find me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-lima-416266394/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/eduardoansl/"><img src="https://img.shields.io/badge/Instagram-Follow-161B22?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
-  <a href="mailto:limaeduardoans789@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
-  <a href="https://portfoledu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" /></a>
+
+  <a href="https://www.linkedin.com/in/eduardo-lima-416266394/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/eduardoansl/"><img src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:limaeduardoans789@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfoledu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
   <br /><br />
 
   <i>Building, learning, and improving — one project at a time.</i>
+
 </div>
