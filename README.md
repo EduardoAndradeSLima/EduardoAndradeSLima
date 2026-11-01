@@ -20,7 +20,7 @@ I'm Eduardo, a 16-year-old developer from São Paulo. I like understanding how t
 Away from the editor, I like astronomy and math. The gold medal at the Brazilian Astronomy Olympiad represents this.
 
 <div style="display: flex; align-items: stretch; gap: 20px; width: 100%;">
-  <div align="left" style="flex: 56%; min-width: 300px;">
+  <div align="left" style="flex: 56%; min-width: 300px;" width: 50%>
 
 ```javascript
 import Developer from 'Developer';
@@ -47,7 +47,7 @@ class Currently extends Developer {
 ```
 
   </div>
-  <div align="right" style="flex: 44%; display: flex; align-items: center; justify-content: center;">
+  <div align="right" style="flex: 44%; display: flex; align-items: center; justify-content: center;  width: 50%">
     <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
   </div>
 </div>
