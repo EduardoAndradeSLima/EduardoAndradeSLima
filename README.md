@@ -19,12 +19,11 @@ I'm Eduardo, a 16-year-old developer from São Paulo. I like understanding how t
 
 Away from the editor, I like astronomy and math. The gold medal at the Brazilian Astronomy Olympiad represents this.
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;"  width="56%" valign="top">
+<div style="display: flex; align-items: stretch; gap: 20px; width: 100%;">
+  <div style="flex: 56%; min-width: 300px;">
 
 ```javascript
-import Developer from 'Edu';
+import Developer from 'Developer';
 
 class AboutMe extends Developer {
   name = 'Eduardo Andrade da Silva Lima';
@@ -33,7 +32,7 @@ class AboutMe extends Developer {
   english = 'Intermediate';
   spanish = 'Advanced';
   location = 'São Paulo, Brazil';
-  website = 'https://portfoledu.vercel.app/';
+  website = 'https://vercel.app';
 }
 
 class Currently extends Developer {
@@ -47,12 +46,11 @@ class Currently extends Developer {
 }
 ```
 
-</td>
-    <td style="border: none;" width="44%" valign="middle" align="center">
-      <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 44%; display: flex; align-items: center; justify-content: center;">
+    <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
+  </div>
+</div>
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
