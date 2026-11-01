@@ -21,7 +21,7 @@ Away from the editor, I like astronomy and math. The gold medal at the Brazilian
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="56%" valign="top">
+    <td style="border: none;"  width="56%" valign="top">
 
 ```javascript
 import Developer from 'Edu';
@@ -48,7 +48,7 @@ class Currently extends Developer {
 ```
 
 </td>
-    <td width="44%" valign="middle" align="center">
+    <td style="border: none;" width="44%" valign="middle" align="center">
       <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
     </td>
   </tr>
