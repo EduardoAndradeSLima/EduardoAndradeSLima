@@ -162,9 +162,6 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
   <img src="https://streak-stats.demolab.com/?user=EduardoAndradeSLima&hide_border=true&background=0A1628&stroke=1E3A5F&ring=8AB4F8&fire=ACD6EE&currStreakNum=E8EEF8&sideNums=E8EEF8&currStreakLabel=ACD6EE&sideLabels=8FA3BF&dates=5B7192" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoAndradeSLima&bg_color=0A1628&color=8FA3BF&line=8AB4F8&point=E8EEF8&area=true&area_color=1E3A8A&title_color=ACD6EE&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" />
-</p>
 
 <!--
 🐍 CONTRIBUTION SNAKE
