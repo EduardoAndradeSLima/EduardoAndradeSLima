@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <img src="assets/banner-night.svg" width="100%" alt="Welcome to Eduardo's GitHub" />
 
@@ -15,39 +15,62 @@
 
 ## `01` About me
 
-I'm Eduardo, a 16-year-old developer from São Paulo. I like understanding how things really worck, that's why I'm rebuilding Git from scratch and turning what I learn into software people actually use, from hackathon platforms to systems for real businesses.
+I'm Eduardo, a software developer and Systems Development student from São Paulo, Brazil.
 
-Away from the editor, I like astronomy and math. The gold medal at the Brazilian Astronomy Olympiad represents this.
+I'm interested in understanding how software works beyond the surface. I enjoy exploring computer science fundamentals, building tools from scratch, and turning ideas into practical software.
+
+My interests span **software engineering, artificial intelligence, systems design, and applied mathematics**. I'm particularly curious about how mathematical concepts and computational methods can be used to solve complex problems.
+
+Outside programming, I'm interested in astronomy and mathematics. I've also participated in academic olympiads, earning medals in both mathematics and astronomy.
 
 <div style="display: flex; align-items: stretch; gap: 20px; width: 100%;">
-  <div align="left" style="flex: 56%; min-width: 300px;" width: 50%>
+  <div align="left" style="flex: 56%; min-width: 300px;" width="50%">
 
 ```javascript
 import Developer from 'Developer';
 
 class AboutMe extends Developer {
   name = 'Eduardo Andrade da Silva Lima';
-  role = 'Student & Software Developer';
-  age = 16;
+  role = 'Software Developer & Student';
+  education = 'Systems Development';
   english = 'Intermediate';
   spanish = 'Advanced';
   location = 'São Paulo, Brazil';
-  website = 'https://vercel.app';
+  website = 'https://portfoledu.vercel.app';
+}
+
+class Interests extends Developer {
+  engineering = [
+    'Software Engineering',
+    'Systems Design',
+    'Computer Science'
+  ];
+
+  exploring = [
+    'Artificial Intelligence',
+    'Applied Mathematics',
+    'Cybersecurity',
+    'Cloud Computing'
+  ];
 }
 
 class Currently extends Developer {
-  building = ['SaaS', 'Web Platforms', 'Developer Tools'];
-  exploring = [
-    'Cybersecurity',
-    'Cloud Computing',
-    'System Design',
-    'Artificial Intelligence'
+  building = [
+    'Developer Tools',
+    'Web Platforms',
+    'SaaS Applications'
+  ];
+
+  learning = [
+    'Algorithms & Data Structures',
+    'System Internals',
+    'AI Agent Architecture'
   ];
 }
 ```
 
   </div>
-  <div align="right" style="flex: 44%; display: flex; align-items: center; justify-content: center;  width: 50%">
+  <div align="right" style="flex: 44%; display: flex; align-items: center; justify-content: center; width: 50%">
     <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
   </div>
 </div>
@@ -65,7 +88,7 @@ class Currently extends Developer {
   </tr>
   <tr>
     <td align="right"><sub><code>frontend</code></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="HTML, CSS, React and Next.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular&theme=dark" alt="HTML, CSS, React, Next.js and Angular" /></td>
   </tr>
   <tr>
     <td align="right"><sub><code>backend</code></sub></td>
@@ -100,24 +123,43 @@ class Currently extends Developer {
 
 </div>
 
-I build and orchestrate AI agents. I'm exploring shared memory, autonomous workflows, and integrations with tools such as GitHub, Figma, and email. On more complex projects, I study how multiple agents can coordinate different parts of the same task.
+I'm exploring how AI systems can interact with external tools, coordinate tasks, and automate complex workflows.
+
+My current interests include **AI agent architecture, tool integration, shared context, and multi-agent orchestration**. I also experiment with workflows involving GitHub, Figma, and other development tools.
+
+I'm particularly interested in understanding how these systems can become more reliable, useful, and autonomous.
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
-## `04` Projects on GitHub
+## `04` Research interests
+
+I'm interested in the intersection of computer science, mathematics, and artificial intelligence.
+
+Some topics I want to explore further:
+
+- **Machine Learning:** mathematical foundations, optimization, and model behavior.
+- **Algorithms:** computational complexity, data structures, and algorithm design.
+- **Applied Mathematics:** numerical methods, probability, statistics, and optimization.
+- **AI Systems:** agent architectures, distributed coordination, and computational efficiency.
+
+My goal is to develop a stronger theoretical foundation while building practical implementations and exploring opportunities for collaborative research.
+
+<img src="assets/divider-navy.svg" width="100%" alt="" />
+
+## `05` Projects on GitHub
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <sub><code>javascript · node.js</code></sub>
       <h3>Build Your Own Git</h3>
-      <p>Recreating Git in <b>JavaScript and Node.js</b> to learn about file systems, SHA-1, Git objects, and version control internals. <i>In progress.</i></p>
+      <p>Recreating Git in <b>JavaScript and Node.js</b> to understand file systems, SHA-1 hashing, Git objects, and the internals of version control. <i>In progress.</i></p>
       <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View Git project" /></a></p>
     </td>
     <td width="50%" valign="top">
       <sub><code>react · express · supabase</code></sub>
       <h3>FacilitaGRU — Hackathon GRU</h3>
-      <p>Web platform supporting screening and management of social-assistance placements in Guarulhos. Built with <b>React, Node.js, Express, and Supabase</b>.</p>
+      <p>A web platform designed to support the screening and management of social-assistance placements in Guarulhos. Built with <b>React, Node.js, Express, and Supabase</b>.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View FacilitaGRU repository" /></a></p>
     </td>
   </tr>
@@ -125,13 +167,13 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
     <td width="50%" valign="top">
       <sub><code>python · streamlit</code></sub>
       <h3>Radar Logístico</h3>
-      <p>A <b>Python and Streamlit</b> dashboard for monitoring delivery delays, comparing carriers, filtering metrics, and exploring logistics data.</p>
+      <p>A <b>Python and Streamlit</b> dashboard for monitoring delivery delays, comparing carriers, filtering performance metrics, and exploring logistics data.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/dashboard-logistico"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View logistics dashboard repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <sub><code>angular · node.js · mongodb</code></sub>
       <h3>Booking System</h3>
-      <p>A scheduling application project using <b>Angular, Node.js, and MongoDB</b>, with separate frontend and backend.</p>
+      <p>A scheduling application built with <b>Angular, Node.js, and MongoDB</b>, with separate frontend and backend components.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/booking-system"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View booking system repository" /></a></p>
     </td>
   </tr>
@@ -143,17 +185,17 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
-## `05` Achievements & experience
+## `06` Achievements & experience
 
 - 🥇 **Gold medal — Brazilian Astronomy Olympiad (OBA)**
 - 🥉 **Bronze medal — Brazilian Mathematics Olympiad (OBMEP)**
 - 🏆 **2nd place — Programming competition**, competing against teams from FATEC
 - 🤝 **Hackathons and collaborative projects** focused on practical problem-solving
-- 💻 **Software for real businesses**, including web platforms and management systems
+- 💻 **Software development for real businesses**, including management systems and digital platforms
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
-## `06` GitHub stats
+## `07` GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&hide_border=true&bg_color=0A1628&title_color=ACD6EE&text_color=C9D6E8&icon_color=8AB4F8&ring_color=8AB4F8" alt="GitHub statistics" />
@@ -164,13 +206,10 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
   <img src="https://streak-stats.demolab.com/?user=EduardoAndradeSLima&hide_border=true&background=0A1628&stroke=1E3A5F&ring=8AB4F8&fire=ACD6EE&currStreakNum=E8EEF8&sideNums=E8EEF8&currStreakLabel=ACD6EE&sideLabels=8FA3BF&dates=5B7192" alt="GitHub contribution streak" />
 </p>
 
-
-
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
 <div align="center">
 
-
-  <i>Building, learning, and improving — one project at a time.</i>
+  <i>Building things, understanding how they work, and exploring what's possible.</i>
 
 </div>
