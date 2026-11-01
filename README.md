@@ -186,9 +186,6 @@ its matching closing comment to display the animation.
 
 <div align="center">
 
-  <img src="assets/banner.svg" width="100%" alt="Eduardo Andrade — Student · Developer · Builder" />
-
-  <br /><br />
 
   <i>Building, learning, and improving — one project at a time.</i>
 
