@@ -72,7 +72,7 @@ class Currently extends Developer {
 
   </td>
   <td width="60%" valign="middle" style="border: none;">
-    <img src="assets/Saturno.png" width="100%" alt="Saturn drawn in ASCII characters" />
+    <img src="assets/Saturno.jfif" width="100%" alt="Saturn drawn in ASCII characters" />
   </td>
 </tr>
 </table>
