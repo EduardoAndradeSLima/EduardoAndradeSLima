@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="332" height="338" viewBox="0 0 332 338" role="img" aria-label="A steaming coffee mug drawn in ASCII characters">
+<title>Coffee mug, rendered in ASCII</title>
+<defs>
+<linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="332" y2="338"><stop offset="0" stop-color="#F4F8FF"/><stop offset="0.5" stop-color="#ACD6EE"/><stop offset="1" stop-color="#6F90C8"/></linearGradient>
+<style>.tw{animation:tw 4s ease-in-out infinite}@keyframes tw{0%,100%{opacity:.7}50%{opacity:.1}}.steam{animation:steam 3.6s ease-in infinite;opacity:0}@keyframes steam{0%{transform:translateY(0);opacity:0}25%{opacity:.8}100%{transform:translateY(-34px);opacity:0}}</style>
+</defs>
+<rect x="0.5" y="0.5" width="331" height="337" rx="14" fill="#0A1628" stroke="#1E3A5F"/>
+<line x1="0" y1="38" x2="332" y2="38" stroke="#1E3A5F"/>
+<g fill="#1E3A5F"><circle cx="22" cy="19" r="4"/><circle cx="36" cy="19" r="4"/><circle cx="50" cy="19" r="4"/></g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="1" fill="#8FA3BF"><text x="68" y="23">~/late-night/coffee.txt</text><text x="308" y="23" text-anchor="end" opacity="0.6">brewing</text></g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8AB4F8">
+<text class="tw" style="animation-delay:-3.3s" x="64" y="62">.</text>
+<text class="tw" style="animation-delay:-1.7s" x="52" y="106">.</text>
+<text class="tw" style="animation-delay:-3.8s" x="262" y="128">.</text>
+<text class="tw" style="animation-delay:-3.0s" x="268" y="139">.</text>
+<text class="tw" style="animation-delay:-2.5s" x="262" y="150">.</text>
+<text class="tw" style="animation-delay:-0.2s" x="40" y="161">+</text>
+<text class="tw" style="animation-delay:-0.6s" x="58" y="194">.</text>
+<text class="tw" style="animation-delay:-1.3s" x="232" y="260">.</text>
+</g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="url(#ink)">
+<text x="76" y="139" textLength="126" lengthAdjust="spacingAndGlyphs">.-===+++========----:</text>
+<text x="70" y="150" textLength="138" lengthAdjust="spacingAndGlyphs">-@=::::--:::::::::::-+-</text>
+<text x="70" y="161" textLength="156" lengthAdjust="spacingAndGlyphs">:#%@@%*******+++++==:.-=-.</text>
+<text x="70" y="172" textLength="168" lengthAdjust="spacingAndGlyphs">:#%%%%%%%%###**++=-:..-***=.</text>
+<text x="70" y="183" textLength="174" lengthAdjust="spacingAndGlyphs">:#%%%%%%%%###**+==-:...:=**=.</text>
+<text x="70" y="194" textLength="54" lengthAdjust="spacingAndGlyphs">:#%%%%%%%</text>
+<text x="130" y="194" textLength="18" lengthAdjust="spacingAndGlyphs">&lt;/&gt;</text>
+<text x="154" y="194" textLength="54" lengthAdjust="spacingAndGlyphs">*+==-:...</text>
+<text x="220" y="194" textLength="24" lengthAdjust="spacingAndGlyphs">=#*-</text>
+<text x="70" y="205" textLength="138" lengthAdjust="spacingAndGlyphs">:#%%%%%%%###***+==-:...</text>
+<text x="226" y="205" textLength="24" lengthAdjust="spacingAndGlyphs">##=.</text>
+<text x="70" y="216" textLength="138" lengthAdjust="spacingAndGlyphs">:#%%%%%%%###**++==-:...</text>
+<text x="220" y="216" textLength="24" lengthAdjust="spacingAndGlyphs">.%#-</text>
+<text x="70" y="227" textLength="138" lengthAdjust="spacingAndGlyphs">:##%%%%%%###**++==-:...</text>
+<text x="214" y="227" textLength="30" lengthAdjust="spacingAndGlyphs">:#%+.</text>
+<text x="70" y="238" textLength="168" lengthAdjust="spacingAndGlyphs">:##%%%%%####**++==-:..:*%#+:</text>
+<text x="70" y="249" textLength="162" lengthAdjust="spacingAndGlyphs">:##%%%%####***++=--:..-*+-.</text>
+<text x="70" y="260" textLength="144" lengthAdjust="spacingAndGlyphs">:###%%#####***++=--:....</text>
+<text x="70" y="271" textLength="138" lengthAdjust="spacingAndGlyphs">:*#########**+++=--:...</text>
+<text x="70" y="282" textLength="132" lengthAdjust="spacingAndGlyphs">.=########***++==--:..</text>
+<text x="94" y="293" textLength="90" lengthAdjust="spacingAndGlyphs">----:+====::...</text>
+</g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#ACD6EE">
+<text class="steam" style="animation-delay:0.0s" x="107.5" y="142">)</text>
+<text class="steam" style="animation-delay:0.4s" x="136.8" y="142">(</text>
+<text class="steam" style="animation-delay:0.8s" x="153.3" y="142">)</text>
+<text class="steam" style="animation-delay:1.2s" x="113" y="131">(</text>
+<text class="steam" style="animation-delay:1.6s" x="137.9" y="131">)</text>
+<text class="steam" style="animation-delay:2.0s" x="162.5" y="131">(</text>
+<text class="steam" style="animation-delay:2.4s" x="108.8" y="120">)</text>
+<text class="steam" style="animation-delay:2.8s" x="134.5" y="120">(</text>
+<text class="steam" style="animation-delay:3.2s" x="158.8" y="120">)</text>
+</g>
+<text x="28" y="322" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="0.5" fill="#8FA3BF"><tspan fill="#8AB4F8">status</tspan>  brewing the next project</text>
+</svg>

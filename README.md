@@ -91,10 +91,14 @@ class Currently extends Developer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20agents-0B1D3A?style=for-the-badge&logo=anthropic&logoColor=ACD6EE" alt="AI agents" />
-<img src="https://img.shields.io/badge/MCP-0B1D3A?style=for-the-badge" alt="MCP" />
-<img src="https://img.shields.io/badge/automation-0B1D3A?style=for-the-badge&logo=githubactions&logoColor=ACD6EE" alt="Automation" />
-<img src="https://img.shields.io/badge/figma-0B1D3A?style=for-the-badge&logo=figma&logoColor=ACD6EE" alt="Figma" />
+  <img src="assets/hands-ascii.svg" width="100%" alt="Human and AI agent hands reaching towards each other in ASCII art" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/AI%20agents-0B1D3A?style=for-the-badge&logo=anthropic&logoColor=ACD6EE" alt="AI agents" />
+  <img src="https://img.shields.io/badge/MCP-0B1D3A?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/automation-0B1D3A?style=for-the-badge&logo=githubactions&logoColor=ACD6EE" alt="Automation" />
+  <img src="https://img.shields.io/badge/figma-0B1D3A?style=for-the-badge&logo=figma&logoColor=ACD6EE" alt="Figma" />
 
 </div>
 
@@ -162,6 +166,9 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
   <img src="https://streak-stats.demolab.com/?user=EduardoAndradeSLima&hide_border=true&background=0A1628&stroke=1E3A5F&ring=8AB4F8&fire=ACD6EE&currStreakNum=E8EEF8&sideNums=E8EEF8&currStreakLabel=ACD6EE&sideLabels=8FA3BF&dates=5B7192" alt="GitHub contribution streak" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoAndradeSLima&bg_color=0A1628&color=8FA3BF&line=8AB4F8&point=E8EEF8&area=true&area_color=1E3A8A&title_color=ACD6EE&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" />
+</p>
 
 <!--
 🐍 CONTRIBUTION SNAKE
@@ -183,6 +190,13 @@ its matching closing comment to display the animation.
 
 <div align="center">
 
+  <img src="assets/coffee-ascii.svg" width="280" alt="Late-night coffee mug rendered in ASCII" />
+
+  <br /><br />
+
+  <img src="assets/banner.svg" width="100%" alt="Eduardo Andrade — Student · Developer · Builder" />
+
+  <br /><br />
 
   <i>Building, learning, and improving — one project at a time.</i>
 

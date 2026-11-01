@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="382" viewBox="0 0 896 382" role="img" aria-label="Two hands drawn in ASCII, a human hand and an agent hand almost touching">
+<title>Human and agent hands, rendered in ASCII</title>
+<defs>
+<linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="896" y2="382"><stop offset="0" stop-color="#F4F8FF"/><stop offset="0.5" stop-color="#ACD6EE"/><stop offset="1" stop-color="#6F90C8"/></linearGradient>
+<style>.tw{animation:tw 4s ease-in-out infinite}@keyframes tw{0%,100%{opacity:.7}50%{opacity:.1}}.hop{animation:hop 2.4s ease-in-out infinite;opacity:.1}@keyframes hop{0%,100%{opacity:.1}30%{opacity:1}60%{opacity:.1}}.spark{animation:spark 2.4s ease-in-out infinite;transform-origin:446px 202px}@keyframes spark{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}</style>
+</defs>
+<rect x="0.5" y="0.5" width="895" height="381" rx="14" fill="#0A1628" stroke="#1E3A5F"/>
+<line x1="0" y1="38" x2="896" y2="38" stroke="#1E3A5F"/>
+<g fill="#1E3A5F"><circle cx="22" cy="19" r="4"/><circle cx="36" cy="19" r="4"/><circle cx="50" cy="19" r="4"/></g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="1" fill="#8FA3BF"><text x="68" y="23">~/ai/handoff.txt</text><text x="872" y="23" text-anchor="end" opacity="0.6">human ⇄ agent</text></g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8AB4F8">
+<text class="tw" style="animation-delay:-2.0s" x="52" y="62">.</text>
+<text class="tw" style="animation-delay:-0.3s" x="316" y="62">.</text>
+<text class="tw" style="animation-delay:-0.2s" x="760" y="62">.</text>
+<text class="tw" style="animation-delay:-3.8s" x="430" y="73">.</text>
+<text class="tw" style="animation-delay:-3.7s" x="136" y="84">.</text>
+<text class="tw" style="animation-delay:-2.7s" x="262" y="84">.</text>
+<text class="tw" style="animation-delay:-0.5s" x="472" y="95">.</text>
+<text class="tw" style="animation-delay:-3.5s" x="766" y="95">.</text>
+<text class="tw" style="animation-delay:-3.1s" x="634" y="106">+</text>
+<text class="tw" style="animation-delay:-1.6s" x="706" y="106">.</text>
+<text class="tw" style="animation-delay:-1.9s" x="712" y="106">.</text>
+<text class="tw" style="animation-delay:-1.2s" x="202" y="128">+</text>
+<text class="tw" style="animation-delay:-0.5s" x="220" y="128">.</text>
+<text class="tw" style="animation-delay:-0.2s" x="448" y="128">+</text>
+<text class="tw" style="animation-delay:-2.1s" x="652" y="128">.</text>
+<text class="tw" style="animation-delay:-3.9s" x="580" y="139">.</text>
+<text class="tw" style="animation-delay:-0.3s" x="28" y="150">.</text>
+<text class="tw" style="animation-delay:-2.1s" x="238" y="161">.</text>
+<text class="tw" style="animation-delay:-0.2s" x="142" y="205">.</text>
+<text class="tw" style="animation-delay:-0.9s" x="826" y="216">.</text>
+<text class="tw" style="animation-delay:-3.2s" x="658" y="238">.</text>
+<text class="tw" style="animation-delay:-1.9s" x="418" y="260">+</text>
+<text class="tw" style="animation-delay:-3.6s" x="580" y="260">.</text>
+<text class="tw" style="animation-delay:-1.9s" x="460" y="271">.</text>
+<text class="tw" style="animation-delay:-2.1s" x="568" y="271">.</text>
+<text class="tw" style="animation-delay:-1.9s" x="772" y="282">.</text>
+<text class="tw" style="animation-delay:-0.2s" x="802" y="282">.</text>
+<text class="tw" style="animation-delay:-3.1s" x="496" y="293">+</text>
+<text class="tw" style="animation-delay:-1.2s" x="214" y="304">.</text>
+<text class="tw" style="animation-delay:-1.7s" x="280" y="304">+</text>
+<text class="tw" style="animation-delay:-2.2s" x="298" y="315">.</text>
+<text class="tw" style="animation-delay:-2.3s" x="568" y="326">.</text>
+<text class="tw" style="animation-delay:-1.2s" x="652" y="326">.</text>
+<text class="tw" style="animation-delay:-2.8s" x="832" y="326">.</text>
+<text class="tw" style="animation-delay:-0.1s" x="292" y="337">+</text>
+<text class="tw" style="animation-delay:-0.3s" x="508" y="337">.</text>
+<text class="tw" style="animation-delay:-0.0s" x="514" y="337">.</text>
+</g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="url(#ink)">
+<text x="832" y="117" textLength="36" lengthAdjust="spacingAndGlyphs">.::--+</text>
+<text x="772" y="128" textLength="96" lengthAdjust="spacingAndGlyphs">:--+++#%%%%%%%%%</text>
+<text x="724" y="139" textLength="144" lengthAdjust="spacingAndGlyphs">:--++*%%%%%%%%%%%%%%%%%%</text>
+<text x="670" y="150" textLength="198" lengthAdjust="spacingAndGlyphs">.:--++#%%%%%%%%%%%%%%%##########*</text>
+<text x="616" y="161" textLength="252" lengthAdjust="spacingAndGlyphs">:--=++#%%%%%%%%%%%%%%%######*****++++++++=</text>
+<text x="592" y="172" textLength="276" lengthAdjust="spacingAndGlyphs">:+%%%%%%%%%%%%%%######****+++++====------:::::</text>
+<text x="556" y="183" textLength="312" lengthAdjust="spacingAndGlyphs">:--=++#%%%%%######*****+++====----:::::::...........</text>
+<text x="208" y="194" textLength="84" lengthAdjust="spacingAndGlyphs">:--=++*%%%#+::</text>
+<text x="496" y="194" textLength="330" lengthAdjust="spacingAndGlyphs">:--=++*%###***+++****+++++====---::::::................</text>
+<text x="154" y="205" textLength="204" lengthAdjust="spacingAndGlyphs">:---++*%%%%%%%%%%%%#*=#######++=-:</text>
+<text x="478" y="205" textLength="264" lengthAdjust="spacingAndGlyphs">.***++==--::.....-*=----:-=+***-............</text>
+<text x="88" y="216" textLength="312" lengthAdjust="spacingAndGlyphs">.:--=++*%%%%%%%%%%%%%%####***++=:-===:::-==+*##*+--.</text>
+<text x="490" y="216" textLength="12" lengthAdjust="spacingAndGlyphs">..</text>
+<text x="568" y="216" textLength="108" lengthAdjust="spacingAndGlyphs">=%#+=*###***=-:...</text>
+<text x="28" y="227" textLength="306" lengthAdjust="spacingAndGlyphs">+++++*#%%%%%%%%%%%%%%%%%####***++##++-:::.:=+*##*=.</text>
+<text x="346" y="227" textLength="60" lengthAdjust="spacingAndGlyphs">...::-=+*=</text>
+<text x="568" y="227" textLength="78" lengthAdjust="spacingAndGlyphs">#*-..*+:.-+-.</text>
+<text x="28" y="238" textLength="318" lengthAdjust="spacingAndGlyphs">%%%%%%%%%%%%%%%#####***++++==--:-=+*###+*##*=:.:=*#+-</text>
+<text x="394" y="238" textLength="6" lengthAdjust="spacingAndGlyphs">.</text>
+<text x="562" y="238" textLength="30" lengthAdjust="spacingAndGlyphs">:#*=.</text>
+<text x="598" y="238" textLength="18" lengthAdjust="spacingAndGlyphs">**-</text>
+<text x="622" y="238" textLength="24" lengthAdjust="spacingAndGlyphs">.+*:</text>
+<text x="28" y="249" textLength="288" lengthAdjust="spacingAndGlyphs">%%%########****+++===---::::........:-=++**##+=.</text>
+<text x="322" y="249" textLength="36" lengthAdjust="spacingAndGlyphs">.-=*+.</text>
+<text x="568" y="249" textLength="78" lengthAdjust="spacingAndGlyphs">.-+*:=**+=:=:</text>
+<text x="28" y="260" textLength="174" lengthAdjust="spacingAndGlyphs">****++++++===---::::.........</text>
+<text x="262" y="260" textLength="60" lengthAdjust="spacingAndGlyphs">.-=-..-*+:</text>
+<text x="340" y="260" textLength="24" lengthAdjust="spacingAndGlyphs">-*+.</text>
+<text x="586" y="260" textLength="6" lengthAdjust="spacingAndGlyphs">.</text>
+<text x="604" y="260" textLength="30" lengthAdjust="spacingAndGlyphs">.::-.</text>
+<text x="28" y="271" textLength="126" lengthAdjust="spacingAndGlyphs">==-----::::::........</text>
+<text x="274" y="271" textLength="18" lengthAdjust="spacingAndGlyphs">-*-</text>
+<text x="304" y="271" textLength="24" lengthAdjust="spacingAndGlyphs">:+*:</text>
+<text x="346" y="271" textLength="18" lengthAdjust="spacingAndGlyphs">:+=</text>
+<text x="28" y="282" textLength="84" lengthAdjust="spacingAndGlyphs">::............</text>
+<text x="280" y="282" textLength="12" lengthAdjust="spacingAndGlyphs">:.</text>
+<text x="310" y="282" textLength="24" lengthAdjust="spacingAndGlyphs">-*+.</text>
+<text x="28" y="293" textLength="30" lengthAdjust="spacingAndGlyphs">.....</text>
+<text x="316" y="293" textLength="18" lengthAdjust="spacingAndGlyphs">--.</text>
+</g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#ACD6EE">
+<text class="hop" style="animation-delay:0.00s" x="412" y="230">·</text>
+<text class="hop" style="animation-delay:0.18s" x="424" y="227">·</text>
+<text class="hop" style="animation-delay:0.36s" x="436" y="224">·</text>
+<text class="hop" style="animation-delay:0.54s" x="448" y="221">·</text>
+<text class="hop" style="animation-delay:0.72s" x="460" y="218">·</text>
+<text class="hop" style="animation-delay:0.90s" x="472" y="215">·</text>
+</g>
+<g class="spark"><text x="440" y="207" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#F4F8FF">✦</text></g>
+<g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="1"><text x="28" y="364" fill="#8AB4F8">human<tspan fill="#8FA3BF" opacity="0.7"> // intent, context, judgment</tspan></text><text x="868" y="364" text-anchor="end" fill="#8FA3BF" opacity="0.7">tools, memory, execution // <tspan fill="#8AB4F8" opacity="1">agent</tspan></text></g>
+</svg>
