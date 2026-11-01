@@ -114,7 +114,6 @@ I build and orchestrate AI agents. I'm exploring shared memory, autonomous workf
 ## Achievements & experience
 
 - 🥇 **Gold medal — Brazilian Astronomy Olympiad (OBA)**
-- 🥉 **Bronze medal — Brazilian Mathematics Olympiad (OBMEP)**
 - 🏆 **2nd place — Programming competition**, competing against teams from FATEC
 - 🤝 **Hackathons and collaborative projects** focused on practical problem-solving
 - 💻 **Software for real businesses**, including web platforms and management systems
