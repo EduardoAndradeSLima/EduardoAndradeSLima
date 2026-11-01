@@ -23,8 +23,9 @@ My interests span **software engineering, artificial intelligence, systems desig
 
 Outside programming, I'm interested in astronomy and mathematics. I've also participated in academic olympiads, earning medals in both mathematics and astronomy.
 
-<div style="display: flex; align-items: stretch; gap: 20px; width: 100%;">
-  <div align="left" style="flex: 56%; min-width: 300px;" width="50%">
+<table border="0">
+  <tr>
+    <td width="60%" valign="middle" style="border: none;">
 
 ```javascript
 import Developer from 'Developer';
@@ -32,7 +33,7 @@ import Developer from 'Developer';
 class AboutMe extends Developer {
   name = 'Eduardo Andrade da Silva Lima';
   role = 'Software Developer & Student';
-  education = 'Systems Development';
+  age = 16;
   english = 'Intermediate';
   spanish = 'Advanced';
   location = 'São Paulo, Brazil';
@@ -69,11 +70,12 @@ class Currently extends Developer {
 }
 ```
 
-  </div>
-  <div align="right" style="flex: 44%; display: flex; align-items: center; justify-content: center; width: 50%">
+  </td>
+  <td width="60%" valign="middle" style="border: none;">
     <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
-  </div>
-</div>
+  </td>
+</tr>
+</table>
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
