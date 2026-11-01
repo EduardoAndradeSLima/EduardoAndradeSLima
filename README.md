@@ -19,7 +19,7 @@ I'm Eduardo, a 16-year-old developer from São Paulo. I like understanding how t
 
 Away from the editor, I like astronomy and math. The gold medal at the Brazilian Astronomy Olympiad represents this.
 
-
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="56%" valign="top">
 
@@ -52,7 +52,7 @@ class Currently extends Developer {
       <img src="assets/saturn-ascii.svg" width="100%" alt="Saturn drawn in ASCII characters" />
     </td>
   </tr>
-
+</table>
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
