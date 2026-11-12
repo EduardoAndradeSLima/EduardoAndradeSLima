@@ -86,23 +86,23 @@ class Currently extends Developer {
 <table>
   <tr>
     <td align="right"><sub><code>languages</code></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="JavaScript, TypeScript, Python, Java and C++" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" alt="JavaScript, TypeScript, Python and Java" /></td>
   </tr>
   <tr>
     <td align="right"><sub><code>frontend</code></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular&theme=dark" alt="HTML, CSS, React, Next.js and Angular" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vite&theme=dark" alt="HTML, CSS, React, Next.js, Angular and Vite" /></td>
   </tr>
   <tr>
     <td align="right"><sub><code>backend</code></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Node.js, Express and NestJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express" /></td>
   </tr>
   <tr>
     <td align="right"><sub><code>databases</code></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB and Redis" /></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb,supabase&theme=dark" alt="SQLite, PostgreSQL, MySQL, MongoDB and Supabase" /></td>
   </tr>
   <tr>
     <td align="right"><sub><code>tools & cloud</code></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel&theme=dark" alt="Git, GitHub, Docker, AWS and Vercel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel&theme=dark" alt="Git, GitHub, GitHub Actions and Vercel" /></td>
   </tr>
 </table>
 
@@ -153,30 +153,44 @@ My goal is to develop a stronger theoretical foundation while building practical
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><code>javascript · node.js</code></sub>
-      <h3>Build Your Own Git</h3>
-      <p>Recreating Git in <b>JavaScript and Node.js</b> to understand file systems, SHA-1 hashing, Git objects, and the internals of version control. <i>In progress.</i></p>
+      <sub><code>typescript · node.js · sqlite · whatsapp cloud api</code></sub>
+      <h3>TáChegando-Zap</h3>
+      <p>Asynchronous logistics & post-sales bot built on the official <b>WhatsApp Cloud API</b>. Implements immediate <code>200 OK</code> webhook handling, <code>wamid</code> idempotency, a <b>SQLite (WAL)</b> state machine, <b>ViaCEP</b> integration, and human handoff.</p>
+      <p><a href="https://github.com/EduardoAndradeSLima/TaChegando-Zap"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View TáChegando-Zap repository" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>python · autograd · neural networks</code></sub>
+      <h3>nano-grad</h3>
+      <p>Scalar automatic differentiation (<i>autograd</i>) engine and neural network library built from scratch in <b>pure Python</b> with zero external dependencies, tracking dynamic computational DAGs and backpropagation.</p>
+      <p><a href="https://github.com/EduardoAndradeSLima/nano-grad"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View nano-grad repository" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>javascript · node.js · sha-1 · zlib</code></sub>
+      <h3>Build Your Own Git (mini-git)</h3>
+      <p>Implementation of Git's internal object model (<code>init</code>, <code>hash-object</code>, <code>cat-file</code>, <code>write-tree</code>, <code>ls-tree</code>, <code>commit-tree</code>, <code>commit</code>, <code>log</code>) in <b>Node.js</b>, generating SHA-1 and zlib-compressed objects compatible with official Git.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/construa-seu-proprio-git-em-node"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View Git project" /></a></p>
     </td>
+    <td width="50%" valign="top">
+      <sub><code>typescript · react · spiking neural networks</code></sub>
+      <h3>FlyWire Connectome Snake</h3>
+      <p>Experimental simulation connecting a biological <i>Drosophila</i> connectome subgraph (<b>FlyWire</b>) and a <b>Leaky Integrate-and-Fire (LIF)</b> spiking neural network engine to a real-time interactive game loop.</p>
+      <p><a href="https://github.com/EduardoAndradeSLima/cobrinha-flywire"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View FlyWire Connectome Snake repository" /></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <sub><code>react · express · supabase</code></sub>
       <h3>FacilitaGRU — Hackathon GRU</h3>
       <p>A web platform designed to support the screening and management of social-assistance placements in Guarulhos. Built with <b>React, Node.js, Express, and Supabase</b>.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/hackathon-gru26"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View FacilitaGRU repository" /></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <sub><code>python · streamlit</code></sub>
       <h3>Radar Logístico</h3>
       <p>A <b>Python and Streamlit</b> dashboard for monitoring delivery delays, comparing carriers, filtering performance metrics, and exploring logistics data.</p>
       <p><a href="https://github.com/EduardoAndradeSLima/dashboard-logistico"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View logistics dashboard repository" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub><code>angular · node.js · mongodb</code></sub>
-      <h3>Booking System</h3>
-      <p>A scheduling application built with <b>Angular, Node.js, and MongoDB</b>, with separate frontend and backend components.</p>
-      <p><a href="https://github.com/EduardoAndradeSLima/booking-system"><img src="https://img.shields.io/badge/view%20repository-0B1D3A?style=for-the-badge&logo=github&logoColor=ACD6EE" alt="View booking system repository" /></a></p>
     </td>
   </tr>
 </table>
@@ -187,7 +201,15 @@ My goal is to develop a stronger theoretical foundation while building practical
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
-## `06` Achievements & experience
+## `06` Open Source contributions
+
+- **[`tobymao/sqlglot`](https://github.com/tobymao/sqlglot/pulls?q=is%3Apr+author%3AEduardoAndradeSLima)** *(Python SQL Parser & Transpiler)* — Merged PRs including overloaded Teradata `TRUNC` and `DateTrunc` AST transpilation ([`#8980`](https://github.com/tobymao/sqlglot/pull/8980)), Teradata case-insensitive identifier normalization ([`#8940`](https://github.com/tobymao/sqlglot/pull/8940)), SQLite `DATEDIFF` day-unit transpilation ([`#8914`](https://github.com/tobymao/sqlglot/pull/8914)), and AST documentation fixes ([`#8913`](https://github.com/tobymao/sqlglot/pull/8913)).
+- **[`open-telemetry/opentelemetry-python-contrib`](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5298)** *(CNCF OpenTelemetry Python)* — Merged PR [`#5298`](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5298) ensuring proper disposal of async SQLAlchemy engines in instrumentation test suites.
+- **[`langchain-ai/langchainjs`](https://github.com/langchain-ai/langchainjs/pull/12202)** & **[`openbq-org/OpenBB`](https://github.com/openbq-org/OpenBB/pulls?q=is%3Apr+author%3AEduardoAndradeSLima)** — Contributions addressing runtime context overrides in `llmToolSelectorMiddleware` ([`#12202`](https://github.com/langchain-ai/langchainjs/pull/12202)), SEC XBRL taxonomy label parsing ([`#7831`](https://github.com/openbq-org/OpenBB/pull/7831)), and target downside deviation for Sortino ratio in `openbb-technical` ([`#7834`](https://github.com/openbq-org/OpenBB/pull/7834)).
+
+<img src="assets/divider-navy.svg" width="100%" alt="" />
+
+## `07` Achievements & experience
 
 - 🥇 **Gold medal — Brazilian Astronomy Olympiad (OBA)**
 - 🥉 **Bronze medal — Brazilian Mathematics Olympiad (OBMEP)**
@@ -197,7 +219,7 @@ My goal is to develop a stronger theoretical foundation while building practical
 
 <img src="assets/divider-navy.svg" width="100%" alt="" />
 
-## `07` GitHub stats
+## `08` GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=EduardoAndradeSLima&show_icons=true&hide_border=true&bg_color=0A1628&title_color=ACD6EE&text_color=C9D6E8&icon_color=8AB4F8&ring_color=8AB4F8" alt="GitHub statistics" />
